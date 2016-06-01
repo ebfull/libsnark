@@ -1,6 +1,11 @@
 *.o
 *.so
 *.d
+
+# bitcoin build system artifacts
+.deps
+.dirstamp
+
 depinst/
 depsrc/
 README.html
